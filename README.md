@@ -1,5 +1,6 @@
-# ff
+# Eye Reminder
 #The provided Python code is a simple desktop application designed to remind users to take breaks for eye care. It utilizes the plyer module for notifications, time for managing time intervals, and tkinter for the graphical user interface (GUI). The application prompts the user to input reminder times for blinking and eye drops in minutes, ensuring positive integer values. It then continuously runs a loop, triggering desktop notifications at specified intervals for both blink reminders and eye drop reminders. The GUI, created with Tkinter, includes input fields for reminder times, labels for guidance, and a button to set and activate the reminders. The code also customizes the window's dimensions, position, background color (pale green), and font (Arial, size 12).
+#Reason: The eye was not created to be constantly focusing on close objects. If your occupation requires that you stare at a computer screen all day long or if you do a lot of reading, stop from time to time to do a few eye exercise.
 # -*- coding: utf-8 -*-
 """
 Created on Wed Dec 13 17:45:24 2023
